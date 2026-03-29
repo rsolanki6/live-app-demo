@@ -4,11 +4,10 @@ body
   padding: 0;
   box-sizing: border-box;
   overflow-x: hidden;
-  background-color: rgba(217, 234, 216);
 }
 
 h1{
-  margin-top: 5%;
+  margin-top: 10%;
   font-size: 60px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }

@@ -32,7 +32,7 @@ function ProductGrid() {
     return (
         <>
             <h1 align="center">Product Filter and Search</h1>
-            <div className="app">
+            <div className="app container">
                 <button type="button" onClick={showAll}>All</button>
                 <button type="button" onClick={tShirts}>Tshirt</button>
                 <button type="button" onClick={shorts}>Short</button>
